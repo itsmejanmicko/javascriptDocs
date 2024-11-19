@@ -48,3 +48,21 @@ const includeBikeItem = items.filter(item =>
     item.name.toLowerCase().includes('bike')
 );
 console.log(includeBikeItem)
+
+## Tech Stack
+
+**Client:** Tailwindcss and React Vite
+
+**Server** Express
+
+**Database** MongoDB and Cloudinary
+
+
+
+
+## Acknowledgements
+
+ - I created this with the help of AI in the frontend—so technically, it’s a human-AI co-production… or maybe AI just did most of the heavy lifting while I supervised with snacks!
+ - V0 - I use this ai generation to generate design I polish to make it easy to navigate but I'm not good in frontend RT.
+
+
