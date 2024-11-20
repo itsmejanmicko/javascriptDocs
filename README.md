@@ -5,8 +5,9 @@ Welcome to the JavaScript Docs project! This is an open-source collection of Jav
 ## Table of Contents
 
 - [Introduction](introduction.js)
-- [Array Data Type](blob/main/array.js)
-- [Object Data Type](blob/main/object.js)
+- [Array Data Type](array.js)
+- [Object Data Type](object.js)
+- [Data Type](datatypes.js)
 - [Contributing]()
 - [License](#license)
 
