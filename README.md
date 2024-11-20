@@ -50,4 +50,14 @@ To contribute:
 
 ## License
 
+### Summary of Sections:
+
+- **Introduction**: Provides a basic overview of JavaScript.
+- **Array Data Type**: Introduces arrays, shows how to create and access arrays, and lists common array methods.
+- **Object Data Type**: Introduces objects, shows how to create and access objects, and explains basic operations on objects.
+- **Contributing**: Guidelines for contributing to the project.
+- **License**: Specifies the MIT License for open-source usage.
+
+This `README.md` will guide users through the essential parts of your JavaScript documentation!
+
 This project is licensed under the [MIT License](LICENSE).
